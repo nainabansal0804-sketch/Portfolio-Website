@@ -1,2 +1,5 @@
 # Portfolio-Website
 portfolio webpage made using HTML and CSS is a static, front-end website designed to present personal and professional information in a structured and visually attractive manner.
+My portfolio webpage is designed using **HTML and CSS** with a simple and clean layout. At the top, a **navigation bar** displays my website name, giving the page a professional identity. Below it, my **name and introduction** are shown, while my **profile photo** is placed on the right side to create a balanced layout.
+
+The next section highlights my **skills**, where I have used **technology logos** to visually represent the tools and languages I know. After that, the **education section** presents my academic details in an organized manner. Finally, the **contact section** provides my contact details, making it easy for visitors to reach me.
